@@ -1,6 +1,7 @@
 # Continuing-Professional-Development-Backlog
 KonradK's Backlog for Continuing(ous) Professional Development repository. Submission Deadline: OPEN
 
+
 Google Vertex
 
 Advanced Feature Engineering
@@ -19,7 +20,7 @@ Coursera Guided Projects
 
 Build a Recommender System (DaleonAI.com)
 
-[ML-Powered Translation Dubber](https://daleonai.com/translate-dub-videos-with-ml)  
+[ML-Powered Translation Dubber](https://daleonai.com/translate-dub-videos-with-ml) (DaleonAI.com)
 
 TensorFlow 
 
