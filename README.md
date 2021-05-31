@@ -15,7 +15,11 @@ Coursera Guided Projects
 
   Introduction to Quantum ML
 
-Build a Recommender System (Dale.io)
+[Building an AI-Powered Searchable Video Archive](https://daleonai.com/building-an-ai-powered-searchable-video-archive) (DaleonAI.com)
+
+Build a Recommender System (DaleonAI.com)
+
+[ML-Powered Translation Dubber](https://daleonai.com/translate-dub-videos-with-ml)  
 
 TensorFlow 
 
