@@ -34,6 +34,8 @@ Kaggle Playground Prediction Competition(s)
 >
 > [Tabular Playground Series - May 2021](https://www.kaggle.com/c/tabular-playground-series-may-2021)
 
+[Draw.io Tutorials](https://drawio-app.com/tutorials/interactive-tutorials/)
+
 [Draw.io Diagrams for Software Development Processes](https://drawio-app.com/draw-io-diagrams-for-software-development-processes/)
 
 Product Engineering Methodology (PEM https://www.slalombuild.com/pem)
