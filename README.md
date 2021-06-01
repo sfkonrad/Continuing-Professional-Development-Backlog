@@ -4,7 +4,7 @@ KonradK's Backlog for Continuing(ous) Professional Development repository. Submi
 
 Google Vertex
 
-[Advanced Feature Engineering](https://www.kaggle.com/ryanholbrook/feature-engineering-for-house-prices)
+[Feature Engineering](https://www.kaggle.com/ryanholbrook/feature-engineering-for-house-prices)
 
 [Kafka Tutorial: Console Producer and Consumer Basics, no (de)serializers](https://kafka-tutorials.confluent.io/kafka-console-consumer-producer-basics/kafka.html) 
 
