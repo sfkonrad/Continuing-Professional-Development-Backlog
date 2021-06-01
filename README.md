@@ -28,7 +28,7 @@ Coursera Guided Projects
 
 [ML-Powered Translation Dubber](https://daleonai.com/translate-dub-videos-with-ml) (DaleonAI.com)
 
-[TensorFlow]
+TensorFlow
 
 Kaggle Playground Prediction Competition(s)
 >
